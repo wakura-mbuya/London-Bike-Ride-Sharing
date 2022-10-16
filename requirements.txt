@@ -1,0 +1,14 @@
+dvc==2.30.0
+mlflow
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+sklearn
+xgboost
+ipykernel
+ipython
+matplotlib
+matplotlib-inline
